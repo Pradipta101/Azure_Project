@@ -1,0 +1,9 @@
+{
+	"name": "psr-df",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e3a8bdaa-6c1a-4366-abec-1a507145a0b3",
+		"tenantId": "306a11c9-879a-4822-8265-b5700e34e6e8"
+	}
+}
